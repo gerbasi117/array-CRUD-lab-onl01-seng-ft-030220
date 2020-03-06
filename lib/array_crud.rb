@@ -6,8 +6,9 @@ def create_an_array
   ["Homer", "Marge", "Bart", "Lisa"]
 end
 
-def add_element_to_end_of_array("Louise")
-  [] << "Louise"
+def add_element_to_end_of_array(array, "Louise")
+  array = []
+  array << "Louise"
 end
 
 
