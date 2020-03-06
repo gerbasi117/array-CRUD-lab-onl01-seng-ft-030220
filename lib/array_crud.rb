@@ -6,7 +6,7 @@ def create_an_array
   ["Homer", "Marge", "Bart", "Lisa"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(belcher_fam, element)
   belcher_fam = ["Bob", "Linda", "Tina", "Gene"]
   belcher_fam << "Louise"
     
