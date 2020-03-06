@@ -9,9 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   ["Bob", "Linda", "Tina", "Gene"]
   << "Louise"
-  
-  
-end
+  end
 
 def add_element_to_start_of_array(array, element)
   
